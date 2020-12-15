@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Shaheen Farjo</title>
@@ -130,9 +131,6 @@
         <div class="section" id="contacts">
             <h1><span>Follow Me</span></h1>
             <div>
-                <a href="https://www.sololearn.com/shaheenfarjo" target="_blank">
-                    <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
-                </a>
                 <a href="https://facebook.com/shaheenfarjo">
                     <img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/facebook.png"/>
                 </a>
@@ -144,7 +142,7 @@
         <!-- Contacts section end -->
         
         <div class="copyright">
-            Copyright &copy; 2019, Shaheen Farjo. All Rights Reserved.
+            Copyright &copy; 2019 - 2020, Shaheen Farjo. All Rights Reserved.
         </div>
         
     </body>
