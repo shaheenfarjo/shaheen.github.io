@@ -1,10 +1,9 @@
-عمارات زيونة السكنية، زيونة، بغداد، العراق<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Shaheen Farjo</title>
         <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
     </head>
-    
     <body>
         <!-- header start -->
         <div id="header" class="section">
